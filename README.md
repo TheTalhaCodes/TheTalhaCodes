@@ -5,7 +5,7 @@ Master's student in AI, Data & Agentic — Paris Dauphine PSL (Tunis)
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DeadlyTalha">
+  <a href="https://github.com/TheTalhaCodes">
     <img src="https://img.shields.io/badge/GitHub-DeadlyTalha-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:talhasalek2@gmail.com">
